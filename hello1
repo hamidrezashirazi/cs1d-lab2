@@ -1,7 +1,0 @@
-#include<iostream>
-usingnamespacestd;
-inthello1Function(stringname1)
-{
-cout << "hello World "<< name1 << endl;
-return0;
-}
